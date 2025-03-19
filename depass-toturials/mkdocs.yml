@@ -1,0 +1,8 @@
+site_name: DePass Documentation
+
+nav:
+  - Home: index.md
+  - Tutorials:
+    - "Tutorial 1: dataset_pbmc3k": Toturials/dataset_pbmc3k.md
+
+theme: readthedocs
